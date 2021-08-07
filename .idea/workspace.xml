@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ddec049-d6d2-4e48-9203-0f06c65ca1fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/drawable/ic_car.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/drawable/ic_louer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/drawable/ic_money.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ApiMedecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ApiMedecin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ChartIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ChartIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Facture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Facture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/FactureAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/FactureAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/FactureIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/FactureIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/MedcinAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/MedcinAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Medecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Medecin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/MedecinIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/MedecinIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/MedecinRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/MedecinRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PatientAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PatientAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PatientItent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PatientItent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PatientRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PatientRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Prestation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Prestation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PrestationAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PrestationAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PrestationIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/PrestationIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/RetrofitMedecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/RetrofitMedecin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Traite.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Traite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Traitement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/Traitement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/TraitementAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/TraitementAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/TraitementIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/TraitementIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/TraitementRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/TraitementRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ajout_medecin_intent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ajout_medecin_intent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ajout_patient_intent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ajout_patient_intent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ajout_traitement_intent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/ajout_traitement_intent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/facture_d_un_medecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/facture_d_un_medecin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/facture_d_un_medecinAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/facture_d_un_medecinAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/update_medcin_intent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/update_medcin_intent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/update_patient_intent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/java/com/example/medcinapp/update_patient_intent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_ajout_medecin_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_ajout_medecin_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_ajout_patient_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_ajout_patient_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_medecin_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_medecin_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_patient_itent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/activity_patient_itent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/ajout_traitement_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/ajout_traitement_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/facture_d_un_medecin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/facture_d_un_medecin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/facture_d_un_medecin_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/facture_d_un_medecin_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/facture_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/facture_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/medecin_facture_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/medecin_facture_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/medecin_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/medecin_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/patient_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/patient_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/prestation_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/prestation_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/prestation_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/prestation_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/traitement_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/traitement_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/traitement_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/traitement_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/update_medcin_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/update_medcin_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/update_patient_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/update_patient_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/update_traitement_intent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/layout/update_traitement_intent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voiture/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Voiture" />
+  </component>
+  <component name="ProjectId" id="1rtvkU8YHbkoGPsLwf9NQXNsXMH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ddec049-d6d2-4e48-9203-0f06c65ca1fe" name="Default Changelist" comment="" />
+      <created>1619808343297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619808343297</updated>
+    </task>
+    <servers />
+  </component>
+</project>
